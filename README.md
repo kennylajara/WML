@@ -50,8 +50,11 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 ## License
 
 This project is licensed under the Attribution-NonCommercial 4.0 International - see the [LICENSE](LICENSE) file for details.
-
 If you would like to use this project for commercial purposes, please contact me.
+
+> Programs created using the World Modeling Language (WML) are not subject to the WML license. The license for WML only
+> applies to the language itself, not to any programs or models created using it. Users are free to license their own programs
+> as they see fit.
 
 ## Contact
 

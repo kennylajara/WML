@@ -70,7 +70,8 @@ standard.
 
 ### Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards of behavior expected from contributors.
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to
+understand the standards of behavior expected from contributors.
 
 ### License
 
@@ -78,4 +79,5 @@ By contributing to WML, you agree that your contributions will be licensed under
 
 ## Getting Help
 
-If you have any questions or need help with contributing, please feel free to reach out by opening an issue or contacting us at [email@example.com](mailto:email@example.com).
+If you have any questions or need help with contributing, please feel free to reach out by opening an issue or
+[contact me](https://kennylajara.com/contact/).

@@ -45,7 +45,7 @@ jobs:
           git branch -m master main
           touch .nojekyll
           git add -A
-          git config --global init.defaultBranch master
+          git config --local init.defaultBranch master
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git config --system --add safe.directory /github/workspace/docs/build/html
